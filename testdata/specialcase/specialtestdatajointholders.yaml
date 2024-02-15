@@ -1,0 +1,35 @@
+
+special_case_taste_data_joint_holders:
+  applicationdescription: 'Special Case Transaction Registration for joint holders'
+  fhfirstname: 'Abreham'
+  fhfathername: 'Bekele'
+  fhgfname: 'Eshetu'
+  fholderaddress: 'Addis Ababa'
+  fhshare_info: '1/2'
+  fholderID: 'E:\Abrish files\INTAPS\testdata\male id.png'
+  fhIDreference: 'AB'
+  shfirstname: 'Tinsae'
+  shfathername: 'Mihretu'
+  shgfname: 'Workneh'
+  sholderaddress: 'Addis Ababa'
+  shshare_info: '1/2'
+  sholderID: 'E:\Abrish files\INTAPS\testdata\male id.png'
+  shIDreference: 'TM'
+  holderclaim: 'E:\Abrish files\INTAPS\testdata\claim.JPG'
+  holderclaimR: 'ABTMCR'
+  holderclaimD: 'ABTM added'
+  Holdingproof: 'E:\Abrish files\INTAPS\testdata\holding.jpg'
+  HoldingproofR: 'ABTMPOH'
+  HoldingproofD: 'ABTMPOH added'
+  remarktext: 'This needs supervisor approval'
+  supervisorremarktext: 'The special case Transaction Registration for joint holders has been aprroved'
+  titledeed: 'E:\Abrish files\INTAPS\testdata\holding.jpg'
+
+
+
+
+
+
+
+
+

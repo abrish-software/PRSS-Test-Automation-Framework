@@ -1,0 +1,19 @@
+
+{
+"special_test_case_data" : {
+  "description": "Special Case Registration Transaction for single Private holder",
+  "firstname": "Yonas",
+  "fathername": "Kenenisa",
+  "gfname": "Defar",
+  "holderaddress": "Addis Ababa",
+  "holderID": "E:\\intaps\\new data\\id 2.jpg",
+  "IDreference": "YK",
+  "holderclaim": "E:\\intaps\\new data\\claim Resolution.pdf",
+  "holderclaimR": "YKCR",
+  "holderclaimD": "YKCR added",
+  "Holdingproof": "E:\\intaps\\new data\\land holding.pdf",
+  "HoldingproofR": "YKPOH",
+  "HoldingproofD": "YKPOH added"
+}
+}
+

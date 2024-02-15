@@ -1,0 +1,24 @@
+rent_cancellation_test_data:
+  rcapplicationdescription: 'Rent Cancellation Transaction Registration'
+  firstname: 'Ayantu'
+  fathername: 'Bonsa'
+  gfname: 'Hordofa'
+  idfile: 'E:\Abrish files\INTAPS\testdata\male id.png'
+  idtext: 'ABID'
+  pomfile: 'E:\Abrish files\INTAPS\testdata\marriage certeficate.png'
+  pomreference: 'ABPOM'
+  pomdescription: 'ABPOM added'
+  uploadRCD: 'E:\Abrish files\INTAPS\testdata\will certeficate.jpg'
+  addRCDreference : 'RCD'
+  addRCDdescription : 'RCD added'
+  uploadLHC: 'E:\Abrish files\INTAPS\testdata\will certeficate.jpg'
+  addLHCreference: 'ABLHC'
+  addLHCdescription: 'ABLHC added'
+  expertremarktext: 'This needs supervisor approval'
+  supervisorremarktext: 'Rent Cancellation Transaction Registration has been aprroved'
+  officerremarktext: 'Rent Cancellation Transaction Registration is finalized'
+
+
+    shcapplicationdescription,
+                                                            firstname, fathername,
+                                                            gfname, idfile, idtext, pomfile,
