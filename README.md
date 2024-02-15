@@ -42,3 +42,6 @@ To run automation tests on your machine:
 3. Optionally, append a report to the command. For example: `pytest testcases/specialcase_test.py --html=reports/specialcase.html`.
 
 4. Hit Enter to start the test automation process.
+
+### Note
+For test cases involving CMSS tasks, the system will wait for a specified amount of time, as outlined in the script, until the user completes the respective CMSS tasks. If the user fails to input the data within the specified timeframe, the automation test will fail.
