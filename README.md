@@ -23,7 +23,7 @@ The repository comprises the following seven subfolders:
 
 Before initiating test automation, follow these steps:
 
-1. Clone the repository onto your local machine.
+1. Clone or download the repository onto your local machine.
 
 2. Download PyCharm and import the test automation project into PyCharm.
 
